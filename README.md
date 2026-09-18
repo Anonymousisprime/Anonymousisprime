@@ -1,16 +1,19 @@
-## Hi there 👋
+# Anonymous Is Prime — Prime Hub
 
-<!--
-**Anonymousisprime/Anonymousisprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple static website built with HTML, CSS and JavaScript.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — website structure/content
+- `style.css` — styling and responsive design
+- `script.js` — mobile menu and current year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Pages
+1. Create a GitHub repository.
+2. Upload all three files to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, select **Deploy from a branch**.
+5. Select the `main` branch and `/ (root)`.
+6. Save and wait for GitHub Pages to publish.
+
+## Easy edits
+Open `index.html` to change tournament cards, links, text, packages and contact details.
