@@ -1,19 +1,11 @@
 # Anonymous Is Prime — Prime Hub
 
-A simple static website built with HTML, CSS and JavaScript.
+This version includes the official Anonymous Is Prime logo as `logo.jpeg`.
 
-## Files
-- `index.html` — website structure/content
-- `style.css` — styling and responsive design
-- `script.js` — mobile menu and current year
-
-## GitHub Pages
+## Upload to GitHub
 1. Create a GitHub repository.
-2. Upload all three files to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`.
-6. Save and wait for GitHub Pages to publish.
+2. Upload `index.html`, `style.css`, `script.js`, `logo.jpeg`, and `README.md`.
+3. Go to Settings → Pages.
+4. Select the main branch and root folder, then save.
 
-## Easy edits
-Open `index.html` to change tournament cards, links, text, packages and contact details.
+The logo is already connected in the website header and hero section.
